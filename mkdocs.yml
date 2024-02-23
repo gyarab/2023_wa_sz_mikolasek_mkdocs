@@ -1,0 +1,10 @@
+site_name: My Docs
+
+theme: readthedocs
+
+nav:
+  - Home: 'index.md'
+  - Maturita Pg: 'maturita.md'
+  - Wa 4. hodina: 'wa_4.md'
+
+
